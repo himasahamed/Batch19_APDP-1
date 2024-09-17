@@ -18,3 +18,5 @@ print(log1)
 log2 = Logger.instance()
 print(log2)
 print('Are they the same object?', log1 is log2)
+
+
